@@ -1,0 +1,7 @@
+pandas
+nest_asyncio
+beautifulsoup4
+crawl4ai
+pydantic
+google-genai
+python-dotenv
