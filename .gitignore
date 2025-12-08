@@ -1,6 +1,6 @@
 # all venues
 venues.json
-restaurant_results.csv
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
