@@ -28,6 +28,9 @@ An intelligent scraping agent that identifies a restaurant's Point of Sale (POS)
 ```bash
 pip install requirements.txt
 ```
+```
+playwright install
+```
 
 ## Configuration
 
